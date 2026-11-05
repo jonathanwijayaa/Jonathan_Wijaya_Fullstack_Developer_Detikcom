@@ -98,13 +98,16 @@ Aplikasi berbasis web untuk manajemen kehadiran peserta magang di Detikcom. Meng
 ![Halaman Login](login.png)
 
 ### Admin Dashboard (Operasional Harian)
-![Halaman Admin Dashboard](adminDashboard.png)
+![Halaman Admin Dashboard](dashboardAdmin.png)
+![Halaman Admin Dashboard](dashboardAdmin1.png)
 
 ### Admin Intern Management
 ![Halaman Admin Intern Management](adminInternManagement.png)
+![Halaman Admin Intern Management](adminInternManagement1.png)
 
 ### Admin Attendance Report (Grafik & Rekap)
-![Halaman Admin Attendance Report](adminAttendanceReport.png)
+![Halaman Admin Attendance Report](adminReport.png)
+![Halaman Admin Attendance Report](adminReport1.png)
 
 ### Intern Dashboard (Absensi & Riwayat)
 ![Halaman Intern Dashboard](internDashboard.png)
