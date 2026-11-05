@@ -77,7 +77,7 @@ Aplikasi berbasis web untuk manajemen kehadiran peserta magang di Detikcom. Meng
 
 ---
 
-## 8. Keputusan Teknis & Trade-offs
+## 4. Keputusan Teknis & Trade-offs
 
 1. **Pemisahan Operasional Harian vs Tren Analitik**:
    - *Keputusan*: Admin Dashboard difokuskan murni untuk operasional harian (*kondisi hari ini*: siapa yang hadir, siapa yang terlambat, siapa yang belum check-in, dan siapa yang belum check-out).
@@ -92,7 +92,7 @@ Aplikasi berbasis web untuk manajemen kehadiran peserta magang di Detikcom. Meng
 5. **Format Waktu Terpusat**:
    - *Keputusan*: Satu set helper fungsi terpusat (`formatTime`, `formatDate`, `formatDuration`) dipakai di seluruh halaman untuk menjamin konsistensi format `HH:mm` dan timezone `Asia/Jakarta`.
 
-## 10. Tampilan Antarmuka
+## 5. Tampilan Antarmuka
 
 ### Login
 ![Halaman Login](login.png)
